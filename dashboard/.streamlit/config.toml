@@ -1,0 +1,16 @@
+[theme]
+# Warna utama untuk elemen interaktif.
+primaryColor = "#7792E3"
+
+# Warna latar belakang untuk area konten utama.
+backgroundColor = "#FFFFFF"
+
+# Warna latar belakang yang digunakan untuk sidebar dan sebagian besar widget interaktif.
+secondaryBackgroundColor = "#F0F0F0"
+
+# Warna yang digunakan untuk hampir semua teks.
+textColor = "#000000"
+
+# Jenis huruf untuk semua teks dalam aplikasi, kecuali blok kode. Salah satu dari "sans serif", "serif", atau "monospace".
+# Default: "sans serif"
+font = "sans serif"
